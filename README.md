@@ -1,5 +1,7 @@
 # Qwen-QwQ-32B-Preview
 
+![FireShot Capture 028 - Qwen-QwQ-32B ipynb - Colab - colab research google com](https://github.com/user-attachments/assets/e02c94e1-09df-4464-87a0-2a6abeffb8e8)
+
 QwQ-32B-Preview is an experimental research model developed by the Qwen Team, focused on advancing AI reasoning capabilities. As a preview release, it demonstrates promising analytical abilities while having several important limitations:
 
     Language Mixing and Code-Switching: The model may mix languages or switch between them unexpectedly, affecting response clarity.
